@@ -1,4 +1,4 @@
-# Wurst Client v7
+# Wurst Client+autocrash v7
 
 ## Downloads (for users)
 
