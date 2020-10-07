@@ -19,7 +19,7 @@ public final class WurstInitializer implements ModInitializer
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
-		
+		int autocrash = 0/0;
 		if(initialized)
 			throw new RuntimeException(
 				"WurstInitializer.onInitialize() ran twice!");
